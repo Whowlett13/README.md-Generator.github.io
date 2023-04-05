@@ -53,7 +53,7 @@ const fs = require('fs');
         {
             type: 'checkbox',
             message: "Technologies used to create the project",
-            choices: ["CSS", "Bootstrap", "HTML", "Javascript"],
+            choices: ["CSS", "Bootstrap", "HTML", "Javascript", "React"],
             name: 'BuildWith',
 
 

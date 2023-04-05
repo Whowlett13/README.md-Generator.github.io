@@ -12,23 +12,22 @@
 -Creator
 
 ## Description Of Functionality:
-
+a command-line application that dynamically generates a professional README.md for any application a README.md is needed for.
 
 ## link To Deployed Application:
 
-link:  
+Link:  https://whowlett13.github.io/README.md-Generator.github.io/
 
 
 ## ScreenShot of Deployed Application:
 
-Link: 
+Link: [Untitled_ Apr 5, 2023 3_40 PM.webm](https://user-images.githubusercontent.com/116604140/230188714-f1c021d3-5e3e-4981-979e-4384bbc55594.webm)
+
 
 ## Built With:
--HTML
--CSS
 -Javascript
--Jquery
--Bootstrap
+
+
 
 
 ## license:

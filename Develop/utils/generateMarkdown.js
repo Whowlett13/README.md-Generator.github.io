@@ -19,4 +19,3 @@ function generateMarkdown(data) {
 
 module.exports = generateMarkdown;
 
-//Why is it asking for 2 different javascript files to exist??

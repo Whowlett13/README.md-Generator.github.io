@@ -5,6 +5,7 @@
 
 ## Table Of Contents:
 -Description Of Functionality
+-Installation
 -Link to Deployed Application
 -ScreenShot of Deployed Application
 -Built With
@@ -13,6 +14,9 @@
 
 ## Description Of Functionality:
 a command-line application that dynamically generates a professional README.md for any application a README.md is needed for.
+
+## Installation:
+-The application will be invoked by using the following command: node index.js in an integrated terminal
 
 ## link To Deployed Application:
 

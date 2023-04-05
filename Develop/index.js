@@ -18,40 +18,73 @@ function writeReadMeFile() {
     inquirer
         .prompt{
         type: 'input',
-            message: "what is your name?",
+            message: "What is the project title?",
                 name: 'name',
 
 
 
 }
+
     {
         type: 'input',
-            message: "what is your location?",
-                name: 'location',
+            message: "Write a description of functionality",
+                name: 'description',
+
+
+
+}
+    
+    {
+        type: 'input',
+            message: "Provide a link to the deployed application",
+                name: 'link to deployed application',
 
 
 
 }
     {
         type: 'input',
-            message: "write me a bio a bio about yourself",
-                name: 'bio',
+            message: "Provide a screen shot of deployed application",
+                name: 'Screenshot',
+
+
+
+}{
+        type: 'choices',
+            message: "Technologies used to create the project",
+                name: 'tableOFContents',
 
 
 
 }
     {
         type: 'input',
-            message: "what is your linkedin URl?",
-                name: 'linkedin',
+            message: "Provide the license used in this application",
+                name: 'License',
 
 
 
 }
-    {
-        type: 'input',
-            message: "what is your Github URL",
-                name: 'github',
+{
+    type: 'input',
+        message: "What was the year of creation?",
+            name: 'Year',
+
+
+
+}
+{
+    type: 'input',
+        message: "What is the name of the creator?",
+            name: 'creatorName',
+
+
+
+}
+{
+    type: 'input',
+        message: "What is the name of the creator?",
+            name: 'creatorName',
 
 
 
@@ -72,7 +105,7 @@ function writeReadMeFile() {
 };
 
 function createReadme(data) {
-return `
+    return `
 ${nameOFApplication}
 
 
@@ -90,7 +123,7 @@ ${}
 
 ## link To Deployed Application:
 
-link:  ${}
+Link:  ${}
 
 
 ## ScreenShot of Deployed Application:

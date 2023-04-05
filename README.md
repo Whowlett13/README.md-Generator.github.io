@@ -4,13 +4,13 @@
 
 
 ## Table Of Contents:
--Description Of Functionality
--Installation
--Link to Deployed Application
--ScreenShot of Deployed Application
--Built With
--License
--Creator
+- Description Of Functionality
+- Installation
+- Link to Deployed Application
+- ScreenShot of Deployed Application
+- Built With
+- License
+- Creator
 
 ## Description Of Functionality:
 a command-line application that dynamically generates a professional README.md for any application a README.md is needed for.
